@@ -7,7 +7,8 @@
 Tired of juggling multiple keyboards and mice? ShareMouse Free Work lets you control multiple devices with a single set of peripherals. Turn your iPhone or iPad into a wireless trackpad, or move your cursor seamlessly between your Mac and Windows PC using edge-triggering. 
 
 ---
-
+```
+markdown
 ## 📸 App Preview
 
 | iOS Remote Control | Windows Client | Mac Server / Client |
