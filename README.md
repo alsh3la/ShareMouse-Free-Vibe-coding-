@@ -15,7 +15,7 @@ Tired of juggling multiple keyboards and mice? ShareMouse Free Work lets you con
 
 | iOS Remote Control | Windows Client | Mac Server / Client |
 | :---: | :---: | :---: |
-| ![iOS Basic Input Interface](https://z-cdn-media.chatglm.cn/files/520f4e5e-5070-465c-a74f-a58f5c85fe25.jpeg?auth_key=1880335592-bbece032e9224b3484b9f11c98b6823a-0-c292e2756247e97b4880ebee5577818d) | ![Windows Client Interface](https://z-cdn-media.chatglm.cn/files/e9cd1b17-76c7-4e3a-877e-e74717d2d2ea.jpeg?auth_key=1880335592-361da86ee2dd4d06aa96ddb1c052bda5-0-d81980dfcb5ddb080dfd09bee96fcb7e) | ![Mac Server Interface](https://z-cdn-media.chatglm.cn/files/a2758e31-66a7-49dc-8534-ee20cab890f8.png?auth_key=1880335592-7b90f74ed301463a8384294610d14728-0-cda43c5ea032cae887a268e321123886) |
+| ![iOS Basic Input Interface](./assets/ios.jpeg) | ![Windows Client Interface](./assets/win.jpeg) | ![Mac Server Interface](./assets/mac.png) |
 
 ---
 
