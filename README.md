@@ -12,7 +12,7 @@ Tired of juggling multiple keyboards and mice? ShareMouse Free Work lets you con
 
 | iOS Remote Control | Windows Client | Mac Server / Client |
 | :---: | :---: | :---: |
-| https://github.com/alsh3la/ShareMouse-Free-Vibe-coding-/blob/main/assets/MAC.jpeg |
+| [https://github.com/alsh3la/ShareMouse-Free-Vibe-coding-/blob/main/assets/MAC.jpeg](https://raw.githubusercontent.com/alsh3la/ShareMouse-Free-Vibe-coding-/main/assets/MAC.jpeg) |
 
 ---
 
