@@ -13,7 +13,7 @@ markdown
 
 | iOS Remote Control | Windows Client | Mac Server / Client |
 | :---: | :---: | :---: |
-| ![iOS Basic Input Interface](https://raw.githubusercontent.com/alsh3la/ShareMouse-Free-Vibe-coding-/main/assets/ios.jpeg) | ![Windows Client Interface](https://raw.githubusercontent.com/alsh3la/ShareMouse-Free-Vibe-coding-/main/assets/win.jpeg) | ![Mac Server Interface](https://raw.githubusercontent.com/alsh3la/ShareMouse-Free-Vibe-coding-/main/assets/MAC.jpeg) |
+| <img src="https://raw.githubusercontent.com/alsh3la/ShareMouse-Free-Vibe-coding-/main/assets/ios.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/alsh3la/ShareMouse-Free-Vibe-coding-/main/assets/win.jpeg" width="250"> | <img src="https://raw.githubusercontent.com/alsh3la/ShareMouse-Free-Vibe-coding-/main/assets/MAC.jpeg" width="250"> |
 
 ---
 ```
